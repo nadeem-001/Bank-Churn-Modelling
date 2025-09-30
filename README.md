@@ -5,7 +5,7 @@ This project is a machine learning model built in **Google Colab** to predict ba
 ## 📂 Files in this repository
 - `bank_churn_modelling.ipynb` → The main Colab notebook containing code and model.  
 - `README.md` → Project description and usage instructions.  
-- `LICENSE` → License details (MIT by default).  
+- `LICENSE` → License details (Apache by default).  
 
 ## 🚀 How to use
 1. Open the notebook in Google Colab:  
@@ -14,4 +14,4 @@ This project is a machine learning model built in **Google Colab** to predict ba
 2. Run the cells step by step.  
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
