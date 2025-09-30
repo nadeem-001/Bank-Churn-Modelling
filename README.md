@@ -15,3 +15,14 @@ This project is a machine learning model built in **Google Colab** to predict ba
 
 ## 📜 License
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+
+This project was completed during my internship with **YBI Foundation**.  
+It involves data preprocessing, model training, and evaluation for predicting customer churn in banks.
+
+## 🔗 Project Links
+- GitHub Repository: [Click Here](https://github.com/nadeem-001/Bank-Churn-Modelling)
+- LinkedIn Profile: [Click Here](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)  
+
+## 📌 Internship
+This project is part of my internship program at YBI Foundation.
+
