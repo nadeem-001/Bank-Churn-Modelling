@@ -21,7 +21,7 @@ It involves data preprocessing, model training, and evaluation for predicting cu
 
 ## 🔗 Project Links
 - GitHub Repository: [Click Here](https://github.com/nadeem-001/Bank-Churn-Modelling)
-- LinkedIn Profile: [Click Here](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)  
+- LinkedIn Profile: [Click Here](https://www.linkedin.com/in/nadeem-mohammad-qureshi-4b3833222/)  
 
 ## 📌 Internship
 This project is part of my internship program at YBI Foundation.
